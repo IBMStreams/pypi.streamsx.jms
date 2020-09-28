@@ -13,7 +13,7 @@ IBM Cloud and IBM Streams including IBM Cloud Pak for Data.
 
 """
 
-__version__='0.3.2'
+__version__='0.3.3'
 
 __all__ = ['download_toolkit', 'produce', 'consume']
 from streamsx.jms._jms import download_toolkit, produce, consume
